@@ -1,0 +1,42 @@
+2016-09-07 18:35:57,739  WARN QueueWithBuffer:383 Link 1 too small: enlarge storage capacity from: 1333.3333333333333 Vehicles to: 3599.712023038157 Vehicles.  This is not fatal, but modifies the traffic flow dynamics.
+2016-09-07 18:35:57,740  WARN QueueWithBuffer:415 storage capacity not sufficient for holes; increasing from 3599.712023038157 to 27599.712023038155
+2016-09-07 18:35:57,742  WARN QueueWithBuffer:415 storage capacity not sufficient for holes; increasing from 1333.3333333333333 to 2759.9712023038155
+2016-09-07 18:35:57,743  WARN QueueWithBuffer:415 storage capacity not sufficient for holes; increasing from 1333.3333333333333 to 2759.9712023038155
+2016-09-07 18:35:57,745  WARN QueueWithBuffer:415 storage capacity not sufficient for holes; increasing from 1333.3333333333333 to 2759.9712023038155
+2016-09-07 18:35:57,746  WARN QueueWithBuffer:415 storage capacity not sufficient for holes; increasing from 1333.3333333333333 to 2759.9712023038155
+2016-09-07 18:35:57,746  WARN QueueWithBuffer:415 storage capacity not sufficient for holes; increasing from 1333.2 to 2759.695205183585
+2016-09-07 18:35:57,747  WARN QueueWithBuffer:415 storage capacity not sufficient for holes; increasing from 1333.3333333333333 to 2759.9712023038155
+2016-09-07 18:35:57,748  WARN QueueWithBuffer:415 storage capacity not sufficient for holes; increasing from 1333.3333333333333 to 2759.9712023038155
+2016-09-07 18:35:57,748  WARN QueueWithBuffer:415 storage capacity not sufficient for holes; increasing from 1333.3333333333333 to 2759.9712023038155
+2016-09-07 18:35:57,749  WARN QueueWithBuffer:415 storage capacity not sufficient for holes; increasing from 1333.3333333333333 to 2759.9712023038155
+2016-09-07 18:35:59,110  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:35:59,939  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:00,017  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:00,389  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:01,162  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:01,244  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:01,551  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:02,438  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:02,505  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:02,811  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:03,771  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:03,844  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:04,143  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:04,996  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:05,081  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:05,377  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:06,302  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:06,364  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:06,659  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:07,616  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:07,678  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:07,973  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:09,007  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:09,070  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:09,389  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:10,563  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:10,627  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:10,923  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:12,142  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:12,203  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
+2016-09-07 18:36:12,500  WARN MatsimResource:94 Resource 'matsim_logo_transparent_small.png' not found!
